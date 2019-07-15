@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jdbc>
+    <drivername>com.mysql.jdbc.Driver</drivername>
+    <url>jdbc:mysql://cdb-2i06sqln.gz.tencentcdb.com:10098/sakila</url>
+    <user>root</user>
+    <password>yzj578692102</password>
+</jdbc>
